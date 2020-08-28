@@ -1,0 +1,11 @@
+{
+    "name": "ArtifactOfSecondChance",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/JohnEdwa/ArtifactOfSecondChance",
+    "description": "An artifact that gives you a Dio's Best Friend at the start of a run, but the spent doll is cursed.",
+    "dependencies": [
+      "bbepis-BepInExPack-5.3.1",
+      "tristanmcpherson-R2API-2.5.6",
+      "EvanTich-MoreArtifacts-1.2.3"
+    ]
+}
