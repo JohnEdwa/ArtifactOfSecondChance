@@ -22,7 +22,7 @@ namespace SecondChanceArtifact {
     [R2APISubmoduleDependency("LanguageAPI")]
     public class SecondChanceArtifactMod : BaseUnityPlugin {
         public const string ModGUID = "com.johnedwa.SecondChanceArtifact";
-        public const string ModName = "Second Chance Artifact";
+        public const string ModName = "Artifact of Second Chance";
         public const string ModVersion = "1.0.0";
 
         internal static new BepInEx.Logging.ManualLogSource Logger { get; private set; }
@@ -42,7 +42,7 @@ namespace SecondChanceArtifact {
     /// </summary>
     public class SecondChanceArtifact : NewArtifact<SecondChanceArtifact> {
 
-        public override string Name => "Artifact of Resurrection";
+        public override string Name => "Artifact of Second Chance";
         public override string Description => "Start with Dio's Best Friend, but the Curse of Resurrection weighs a heavy burden.";
         public override Sprite IconSelectedSprite => CreateSprite(Properties.Resources.example_selected, Color.magenta);
         public override Sprite IconDeselectedSprite => CreateSprite(Properties.Resources.example_deselected, Color.gray);
