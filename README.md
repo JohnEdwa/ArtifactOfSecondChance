@@ -16,11 +16,13 @@ The exact effect of each stack of "Dio's Affliction" after resurrection is:
 
 ## Configuration
 
-Not implemented yet.
+`CurseMultiplierConfig: [0.15]`
+`RegenMultiplierConfig: [0.40]`
+`MovementMultiplierConfig: [0.25]`
 
 ## Known Issues
 
-None so far.
+(Base game) You can scrap Dio's Best Friend (Consumed), though it does break the scrapper.
 
 ## To-Do
 
